@@ -1,0 +1,28 @@
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.deps.json
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.pdb
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\refint\AllBizz.Core.dll
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.pdb
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\Exam Pre\AllBizz\AllBizz.Core\obj\Debug\net6.0\ref\AllBizz.Core.dll
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.deps.json
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.dll
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\bin\Debug\net6.0\AllBizz.Core.pdb
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.dll
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\refint\AllBizz.Core.dll
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.pdb
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\AllBizz.Core.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\API\AllBizz\AllBizz.Core\obj\Debug\net6.0\ref\AllBizz.Core.dll

@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Members\\14cd6b53-7b27-4cf8-ac7b-bf30484c00bb3ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Members\\14cd6b53-7b27-4cf8-ac7b-bf30484c00bb3ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Members\\1dfafef4-34c1-4dda-8964-47b86c1cfd893ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Members\\1dfafef4-34c1-4dda-8964-47b86c1cfd893ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Members\\9a170fcd-7b29-4103-9215-b36cb20260fd3ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Members\\9a170fcd-7b29-4103-9215-b36cb20260fd3ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Members\\ba75ee49-c40a-43a2-86fc-3be43e675cd63ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Members\\ba75ee49-c40a-43a2-86fc-3be43e675cd63ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Members\\c5de07d0-e549-4fbe-9a66-c6d61c82a4b83ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Members\\c5de07d0-e549-4fbe-9a66-c6d61c82a4b83ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Portfolios\\bdcbf64a-6175-4446-aa99-b17036e8e58b3ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Portfolios\\bdcbf64a-6175-4446-aa99-b17036e8e58b3ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Portfolios\\cdb30b92-f4c7-4239-bd04-c13ced78053c3ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Portfolios\\cdb30b92-f4c7-4239-bd04-c13ced78053c3ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Mehemmed\\Desktop\\API\\AllBizz\\AllBizz\\wwwroot\\Uploads\\Sliders\\4a90d03b-ee60-4e4e-8647-1f955a5fee163ee951ccac065b9fa86521d0e76ea4d0.jpeg",
+      "PackagePath": "staticwebassets\\Uploads\\Sliders\\4a90d03b-ee60-4e4e-8647-1f955a5fee163ee951ccac065b9fa86521d0e76ea4d0.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AllBizz.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AllBizz.props",
+      "PackagePath": "build\\AllBizz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AllBizz.props",
+      "PackagePath": "buildMultiTargeting\\AllBizz.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AllBizz.props",
+      "PackagePath": "buildTransitive\\AllBizz.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
